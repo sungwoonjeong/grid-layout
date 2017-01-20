@@ -26,3 +26,11 @@ body {
   display: block;
   width: 100%;
 }
+
+p:last-child {
+  padding-bottom: .5em;
+}
+
+.gutter {
+  padding-bottom: .5em;
+}
